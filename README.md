@@ -2,10 +2,14 @@
 Create a function that prints a random number between 1 and 5 to stdout (or console). 
 The probability distribution of the numbers should be as follows:
 
-1 - 50%
+1 - 50% 
+
 2 - 25%
+
 3 - 15%
+
 4 - 5%
+
 5 - 5%
 
 Change the function to a method, add a class member that stores a history of the last 100 numbers, 
